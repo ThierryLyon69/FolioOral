@@ -20,7 +20,6 @@ body {
   overflow-x:hidden;
   color: #ababab; 
 }
-
 .heading-page
 {
       text-transform: uppercase;
@@ -739,5 +738,7 @@ nav a:nth-child(1):hover, nav a:nth-child(2):hover, nav a:nth-child(3):hover, na
   background: rgb(74, 68, 68);
   transition: 0.9s ease left;
 }
+
+
 
 
